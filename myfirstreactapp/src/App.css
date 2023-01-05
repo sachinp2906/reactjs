@@ -1,0 +1,14 @@
+/* css for incrementing and decrementing the count by 1 */
+.increase{
+  background-color: aqua;
+  padding: 4%;
+}
+.decrease{
+  background-color: gray;
+  padding: 4%;
+}
+.classnameforclass{
+  background-color: gray;
+  padding: 4%;
+}
+
